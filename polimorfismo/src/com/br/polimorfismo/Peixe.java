@@ -16,5 +16,10 @@ public class Peixe extends Animal{
 	public void emitirsom() {
 		System.out.println("som de peixe");
 	}
+	
+	public void botarovos(){
+		
+		System.out.println("Botar ovos");
+	}
 
 }
