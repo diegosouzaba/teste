@@ -4,20 +4,17 @@ public class Peixe extends Animal{
 
 	@Override
 	public void locomover() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("nadando");
 	}
 
 	@Override
 	public void alimentar() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("come algas");
 	}
 
 	@Override
 	public void emitirsom() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("som de peixe");
 	}
 
 }
